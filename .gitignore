@@ -5,3 +5,4 @@
 /.vs/Getui.Server.Api.SDK
 /Getui.Server.Api.SDK/bin/Debug/netstandard2.1
 /Getui.Server.Api.SDK/obj
+/Getui.Server.Api.SDK/bin/Debug
