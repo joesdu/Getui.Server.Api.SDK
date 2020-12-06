@@ -1,0 +1,7 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/Getui.Server.Api.SDK
+/Getui.Server.Api.SDK/bin/Debug/netstandard2.1
+/Getui.Server.Api.SDK/obj
