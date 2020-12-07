@@ -3,9 +3,18 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <Description>官网的包是.Net Framework的版本.引用后会产生警告.
+    <Description>基于官网最新SDK,
+官网的包是.Net Framework的版本.引用后会产生警告.
 本包使用.Net Standand 2.1</Description>
     <Authors>Joes</Authors>
+    <Version>1.0.1</Version>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/joesdu/Getui.Server.Api.SDK</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/joesdu/Getui.Server.Api.SDK</RepositoryUrl>
+    <RepositoryType>Public</RepositoryType>
+    <PackageReleaseNotes>基于官网最新SDK,
+官网的包是.Net Framework的版本.引用后会产生警告.
+本包使用.Net Standand 2.1</PackageReleaseNotes>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
